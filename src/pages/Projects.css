@@ -1,0 +1,17 @@
+.Projects {
+  max-width: calc(100% - 5rem);
+}
+
+.Projects__Item {
+  display: flex;
+  margin: 1rem 0;
+}
+
+.Projects__Image {
+  width: 24rem;
+  height: 13.5rem;
+  margin-right: 1rem;
+  border: 0.25rem solid black;
+  object-fit: cover;
+  object-position: center;
+}
